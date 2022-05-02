@@ -1,3 +1,4 @@
+#### This repository showcases three projects: NJCities, MultiplePythonLibraries, and ToDoLists.
 # Morgan Stump
 ## NJCities
 * https://github.com/mstump8/NJCities.git
