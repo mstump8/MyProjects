@@ -1,6 +1,6 @@
 # Morgan Stump
 ## NJCities
-* https://github.com/mstump8/NJCities
+* https://github.com/mstump8/NJCities.git
 * Description: The idea for this project is to compare the connection between population and crime rates within New Jersey cities. The purpose is to showcase how the population of a city does not affect the statistical crime rate, and that just because one city has more people, it does not mean they suffer from more crime.
 
 
